@@ -11,5 +11,7 @@ int main()
     try {
         array<int, 3> data = {3, 5, 7};
         //pesan array int 3 element
+        cout << data.at(5)<< endl;
+        //memanggil array elemen ke 5
     }
 }
