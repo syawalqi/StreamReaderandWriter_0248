@@ -4,3 +4,8 @@
 #include <array>
 // untuk objek array yg akan digunakan
 using namespace std;
+
+int main()
+{
+    cout << "awal program" << endl; // penanda 1
+}
